@@ -7,10 +7,11 @@ class Solution {
                 if(nums[i]>nums[j]){
                 count++;
 
+                }
             }
              ans[i]=count;
         }
-        }
+        
         return ans;
        
     }
