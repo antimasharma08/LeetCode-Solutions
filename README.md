@@ -6,6 +6,7 @@ my leetcode practice solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -29,6 +30,7 @@ my leetcode practice solution
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
