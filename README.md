@@ -24,6 +24,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
@@ -31,6 +32,7 @@ my leetcode practice solution
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
@@ -73,6 +75,7 @@ my leetcode practice solution
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -82,4 +85,8 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
