@@ -9,6 +9,7 @@ my leetcode practice solution
 | [0001-two-sum](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0162-find-peak-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0605-can-place-flowers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -40,6 +41,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
