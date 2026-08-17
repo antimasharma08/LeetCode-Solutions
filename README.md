@@ -19,6 +19,7 @@ my leetcode practice solution
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ my leetcode practice solution
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
