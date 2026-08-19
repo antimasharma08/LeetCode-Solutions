@@ -39,6 +39,7 @@ my leetcode practice solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
@@ -63,6 +64,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
