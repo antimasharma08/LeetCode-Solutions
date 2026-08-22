@@ -66,6 +66,7 @@ my leetcode practice solution
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
