@@ -21,6 +21,7 @@ my leetcode practice solution
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ my leetcode practice solution
 | [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ my leetcode practice solution
 | [0169-majority-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
