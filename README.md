@@ -12,6 +12,7 @@ my leetcode practice solution
 | [0136-single-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0605-can-place-flowers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -34,6 +35,7 @@ my leetcode practice solution
 | [0001-two-sum](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
