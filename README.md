@@ -72,6 +72,7 @@ my leetcode practice solution
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -137,4 +139,8 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
