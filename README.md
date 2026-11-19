@@ -25,6 +25,7 @@ my leetcode practice solution
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ my leetcode practice solution
 | [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
