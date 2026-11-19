@@ -9,6 +9,7 @@ my leetcode practice solution
 | [0001-two-sum](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -143,4 +144,8 @@ my leetcode practice solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
