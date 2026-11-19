@@ -106,6 +106,7 @@ my leetcode practice solution
 | [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
