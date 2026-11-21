@@ -27,6 +27,7 @@ my leetcode practice solution
 | [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2239-find-closest-number-to-zero](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
