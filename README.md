@@ -28,6 +28,7 @@ my leetcode practice solution
 | [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ my leetcode practice solution
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ my leetcode practice solution
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
