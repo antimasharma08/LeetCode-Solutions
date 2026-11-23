@@ -19,6 +19,7 @@ my leetcode practice solution
 | [0704-binary-search](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
