@@ -30,6 +30,7 @@ my leetcode practice solution
 | [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Matrix
@@ -83,6 +84,7 @@ my leetcode practice solution
 | [0344-reverse-string](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ my leetcode practice solution
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
