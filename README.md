@@ -118,6 +118,7 @@ my leetcode practice solution
 | [0628-maximum-product-of-three-numbers](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2469-convert-the-temperature](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/antimasharma08/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
